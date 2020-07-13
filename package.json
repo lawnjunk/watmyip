@@ -1,0 +1,23 @@
+{
+  "name": "@slugbyte/watmyip",
+  "version": "1.0.0",
+  "description": "get local and public ip",
+  "main": "src/index.js",
+  "bin": {
+    "watmyip": "src/index.js"
+  },
+  "scripts": {
+    "watmyip": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slugbyte/watmyip.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/slugbyte/watmyip/issues"
+  },
+  "homepage": "https://github.com/slugbyte/watmyip#readme"
+}
